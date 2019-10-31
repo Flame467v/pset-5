@@ -30,7 +30,7 @@ return null;
      */
 
     public String surroundMe(String in, String out) {
-int x;
+
 return null;
     }
 
