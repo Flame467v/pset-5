@@ -19,7 +19,7 @@
 public class ProblemSet5 {
 
     public static void main(String[] args) {
-return null;
+
     }
 
     /*
@@ -31,7 +31,7 @@ return null;
 
     public String surroundMe(String in, String out) {
 
-return null;
+
     }
 
     /*
@@ -42,7 +42,7 @@ return null;
      */
 
     public String endsMeet(String text, int n) {
-return null;
+
     }
 
     /*
@@ -52,7 +52,7 @@ return null;
      */
 
     public String middleMan(String text) {
-return null;
+
     }
 
     /*
@@ -63,7 +63,7 @@ return null;
      */
 
     public boolean isCentered(String text, String target) {
-return null;
+
     }
 
     /*
@@ -73,7 +73,7 @@ return null;
      */
 
     public int countMe(String text, char suffix) {
-return null;
+
     }
 
     /*
@@ -83,7 +83,7 @@ return null;
      */
 
     public int triplets(String text) {
-return null;
+
     }
 
     /*
@@ -93,7 +93,7 @@ return null;
      */
 
     public long addMe(String text) {
-return null;
+
     }
 
     /*
@@ -103,7 +103,7 @@ return null;
      */
 
     public long sequence(String text) {
-return null;
+
     }
 
     /*
