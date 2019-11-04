@@ -114,7 +114,7 @@ return null;
      */
 
     public String intertwine(String a, String b) {
-return null;
+
     }
 
     /*
@@ -124,6 +124,6 @@ return null;
      */
 
     public boolean isPalindrome(String text) {
-return null;
+
     }
 }
